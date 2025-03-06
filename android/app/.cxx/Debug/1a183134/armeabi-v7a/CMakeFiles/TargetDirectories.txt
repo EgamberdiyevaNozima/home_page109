@@ -1,0 +1,2 @@
+C:/Users/Acer/StudioProjects/new_project107/android/app/.cxx/Debug/1a183134/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Acer/StudioProjects/new_project107/android/app/.cxx/Debug/1a183134/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,6 +1,4 @@
-
 import 'package:flutter/material.dart';
-
 import 'utils/app_colors.dart';
 import 'utils/app_images.dart';
 
@@ -22,7 +20,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               const Text(
-                "Hi! Dianne",
+                "Hi! Nozima",
                 style: TextStyle(color: AppColors.textColor, fontSize: 25),
               ),
               Row(
